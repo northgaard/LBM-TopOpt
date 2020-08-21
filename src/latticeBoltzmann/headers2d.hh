@@ -1,0 +1,7 @@
+#include "latticeBoltzmann/lattices2d.hh"
+#include "latticeBoltzmann/LBSolver2d.hh"
+#include "latticeBoltzmann/obstacleLBSolver2d.hh"
+#include "latticeBoltzmann/LBSolver.hh"
+#include "latticeBoltzmann/NewLBSolver2d.hh"
+#include "latticeBoltzmann/isothermalLBSolver2d.hh"
+#include "latticeBoltzmann/thermalLBSolver2d.hh"

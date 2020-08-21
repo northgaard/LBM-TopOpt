@@ -1,0 +1,8 @@
+#include "core/init.hh"
+#include "core/globalDefinitions.hh"
+#include "core/definitions2d.hh"
+#include "core/geometry2d.hh"
+#include "core/interpolationFunctions.hh"
+#include "core/codiheader.hh"
+#include "core/MPISplit.hh"
+#include "core/binaryIO.hh"

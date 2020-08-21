@@ -1,0 +1,7 @@
+#include "boundaryConditions/boundaryDescriptor2d.hh"
+#include "boundaryConditions/velocityBounceback2d.hh"
+// #include "boundaryConditions/bounceback2d.hh"
+// #include "boundaryConditions/symmetry2d.hh"
+#include "boundaryConditions/thermalBounceback2d.hh"
+#include "boundaryConditions/ZouHe2d.hh"
+#include "boundaryConditions/thermalZouHe2d.hh"
